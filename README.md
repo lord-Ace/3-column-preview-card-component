@@ -30,6 +30,7 @@ Users should be able to:
 
 ![desktop view](images/Web%20capture_1-5-2023_152730_127.0.0.1.jpeg)
 ![Active states](images/Web%20capture_1-5-2023_152851_127.0.0.1.jpeg)
+![mobile view](images/Web%20capture_1-5-2023_153423_127.0.0.1.jpeg)
 
 ### Links
 
@@ -95,7 +96,7 @@ I want to continue on css media querries to make my websites 100% responsive ðŸ‘
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me learn how to use media querries. I really liked this pattern and will use it going forward.
+- [free code camp](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/) - This helped me learn how to use media querries. I really liked this pattern and will use it going forward.
 
 ## Author
 
