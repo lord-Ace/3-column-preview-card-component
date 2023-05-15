@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [label](index.html)
-- Live Site URL: (https://3-column-preview-card-component-68fwaf20c-lord-ace.vercel.app)
+- Live Site URL: (https://3-column-preview-card-component-lord-ace.vercel.app/)
 
 ## My process
 
